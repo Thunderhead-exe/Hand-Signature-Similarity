@@ -51,7 +51,7 @@ To set up this project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ASBK-exe/Hand-Signature-Similarity.git
+   git clone https://github.com/Thunderhead-exe/Hand-Signature-Similarity.git
    cd Hand-Signature-Similarity
    ```
 
